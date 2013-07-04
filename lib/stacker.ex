@@ -1,2 +1,0 @@
-defmodule Stacker do
-end
